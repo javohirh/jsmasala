@@ -45,6 +45,9 @@ p {
 }
 span {
   font-weight: bold;
+  display: block;
+  text-align: left;
+  margin: 0 0 0 15px;
 }
 .card {
   flex-grow: 1;
